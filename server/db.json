@@ -1,0 +1,278 @@
+{
+  "user": [
+    {
+      "username": "juanfrederick",
+      "email": "juanfrederick@gmail.com",
+      "password": "password",
+      "basicBall": 7,
+      "greatBall": 3,
+      "masterBall": 0,
+      "wallet": 1575,
+      "pokemonCatched": 28,
+      "catchAttempts": 39,
+      "id": 1
+    },
+    {
+      "username": "asiangkopi",
+      "email": "kopiasiang@gmail.com",
+      "password": "minumkopi",
+      "basicBall": 4,
+      "greatBall": 7,
+      "masterBall": 9,
+      "wallet": 75,
+      "pokemonCatched": 17,
+      "catchAttempts": 30,
+      "id": 2
+    },
+    {
+      "username": "asd",
+      "email": "asd@asd.com",
+      "password": "asd",
+      "basicBall": 5,
+      "greatBall": 5,
+      "masterBall": 0,
+      "wallet": 500,
+      "pokemonCatched": 0,
+      "catchAttempts": 0,
+      "id": 3
+    },
+    {
+      "username": "ayen",
+      "email": "gladysss12345@gmail.com",
+      "password": "ayengg",
+      "basicBall": 1,
+      "greatBall": 2,
+      "masterBall": 0,
+      "wallet": 650,
+      "pokemonCatched": 3,
+      "catchAttempts": 8,
+      "id": 4
+    },
+    {
+      "username": "amerika",
+      "email": "joebiden@gmail.com",
+      "password": "jayajoe",
+      "basicBall": 8,
+      "greatBall": 0,
+      "masterBall": 0,
+      "wallet": 150,
+      "pokemonCatched": 2,
+      "catchAttempts": 2,
+      "id": 5
+    },
+    {
+      "username": "juanfrederick5",
+      "email": "juan@tracker.com",
+      "password": "ahaiiiii",
+      "basicBall": 4,
+      "greatBall": 0,
+      "masterBall": 0,
+      "wallet": 250,
+      "pokemonCatched": 0,
+      "catchAttempts": 1,
+      "id": 6
+    }
+  ],
+  "pokemonSaved": [
+    {
+      "pokemonId": 887,
+      "name": "dragapult",
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/887.png",
+      "nickname": "winter drag",
+      "date": "24 July 2023",
+      "time": "12.37AM",
+      "user": "kopiasiang@gmail.com",
+      "id": 10
+    },
+    {
+      "pokemonId": 131,
+      "name": "lapras",
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/131.png",
+      "nickname": "lapras",
+      "date": "24 July 2023",
+      "time": "1.47PM",
+      "user": "kopiasiang@gmail.com",
+      "id": 13
+    },
+    {
+      "pokemonId": 803,
+      "name": "poipole",
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/803.png",
+      "nickname": "poipole",
+      "date": "24 July 2023",
+      "time": "1.48PM",
+      "user": "kopiasiang@gmail.com",
+      "id": 14
+    },
+    {
+      "pokemonId": 571,
+      "name": "zoroark",
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/571.png",
+      "nickname": "zoroark",
+      "date": "24 July 2023",
+      "time": "1.50PM",
+      "user": "kopiasiang@gmail.com",
+      "id": 17
+    },
+    {
+      "pokemonId": 824,
+      "name": "blipbug",
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/824.png",
+      "nickname": "blipbug",
+      "date": "24 July 2023",
+      "time": "1.53PM",
+      "user": "kopiasiang@gmail.com",
+      "id": 18
+    },
+    {
+      "pokemonId": 328,
+      "name": "trapinch",
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/328.png",
+      "nickname": "trapinch",
+      "date": "24 July 2023",
+      "time": "1.54PM",
+      "user": "kopiasiang@gmail.com",
+      "id": 19
+    },
+    {
+      "pokemonId": 133,
+      "name": "eevee",
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/133.png",
+      "nickname": "eevee",
+      "date": "24 July 2023",
+      "time": "8.16PM",
+      "user": "gladysss12345@gmail.com",
+      "id": 20
+    },
+    {
+      "pokemonId": 394,
+      "name": "prinplup",
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/394.png",
+      "nickname": "Penguin",
+      "date": "24 July 2023",
+      "time": "8.17PM",
+      "user": "gladysss12345@gmail.com",
+      "id": 21
+    },
+    {
+      "pokemonId": 134,
+      "name": "vaporeon",
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/134.png",
+      "nickname": "water",
+      "date": "24 July 2023",
+      "time": "8.44PM",
+      "user": "gladysss12345@gmail.com",
+      "id": 22
+    },
+    {
+      "pokemonId": 324,
+      "name": "torkoal",
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/324.png",
+      "nickname": "Volcano",
+      "date": "24 July 2023",
+      "time": "9.5PM",
+      "user": "joebiden@gmail.com",
+      "id": 23
+    },
+    {
+      "pokemonId": 160,
+      "name": "feraligatr",
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/160.png",
+      "nickname": "Dino",
+      "date": "24 July 2023",
+      "time": "9.5PM",
+      "user": "joebiden@gmail.com",
+      "id": 24
+    },
+    {
+      "pokemonId": 635,
+      "name": "hydreigon",
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/635.png",
+      "nickname": "hydreigon",
+      "date": "25 July 2023",
+      "time": "11.14AM",
+      "user": "juanfrederick@gmail.com",
+      "id": 38
+    },
+    {
+      "pokemonId": 17,
+      "name": "pidgeotto",
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/17.png",
+      "nickname": "my bird",
+      "date": "25 July 2023",
+      "time": "11.16AM",
+      "user": "juanfrederick@gmail.com",
+      "id": 39
+    },
+    {
+      "pokemonId": 384,
+      "name": "rayquaza",
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/384.png",
+      "nickname": "rayquaza",
+      "date": "25 July 2023",
+      "time": "11.21AM",
+      "user": "juanfrederick@gmail.com",
+      "id": 42
+    },
+    {
+      "pokemonId": 416,
+      "name": "vespiquen",
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/416.png",
+      "nickname": "vespiquen",
+      "date": "25 July 2023",
+      "time": "11.29AM",
+      "user": "juanfrederick@gmail.com",
+      "id": 43
+    },
+    {
+      "pokemonId": 896,
+      "name": "glastrier",
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/896.png",
+      "nickname": "glastrier",
+      "date": "25 July 2023",
+      "time": "11.31AM",
+      "user": "juanfrederick@gmail.com",
+      "id": 44
+    },
+    {
+      "pokemonId": 637,
+      "name": "volcarona",
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/637.png",
+      "nickname": "Sang prabu",
+      "date": "25 July 2023",
+      "time": "11.33AM",
+      "user": "juanfrederick@gmail.com",
+      "id": 45
+    },
+    {
+      "pokemonId": 481,
+      "name": "mesprit",
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/481.png",
+      "nickname": "mesprit",
+      "date": "25 July 2023",
+      "time": "11.35AM",
+      "user": "juanfrederick@gmail.com",
+      "id": 46
+    },
+    {
+      "pokemonId": 553,
+      "name": "krookodile",
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/553.png",
+      "nickname": "Buaya",
+      "date": "25 July 2023",
+      "time": "3.19PM",
+      "user": "juanfrederick@gmail.com",
+      "id": 47
+    },
+    {
+      "pokemonId": 173,
+      "name": "cleffa",
+      "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/173.png",
+      "nickname": "cutee",
+      "date": "25 July 2023",
+      "time": "3.23PM",
+      "user": "juanfrederick@gmail.com",
+      "id": 48
+    }
+  ]
+}
